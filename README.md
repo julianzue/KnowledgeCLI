@@ -1,5 +1,8 @@
 # KnowledgeCLI
 
+## Screenshot
+![image info](./screenshot.png)
+
 ## Description
 This CLI program written in python can store your knowledge in themes.
 
